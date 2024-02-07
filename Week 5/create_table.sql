@@ -1,0 +1,1 @@
+create table if not exist test_table(c1 INT, c2 VARCHAR(50), c3 INT, c4 FLOAT, c5 VARCHAR(40));
